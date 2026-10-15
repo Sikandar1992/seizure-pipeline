@@ -90,9 +90,20 @@ FFT-based autocorrelation implementation against a direct computation.
 
 ## Citing this software
 
-If you use this package, please cite the JOSS paper (see `paper.md` /
-`CITATION.cff`). The same validation methodology has also been applied
-separately to blazar gamma-ray flare forecasting:
+If you use this package, please cite the archived software release
+(see `CITATION.cff`):
+
+> Akbar, S. and Shah, Z. (2026). seizure-pipeline: a causal,
+> leakage-resistant cross-validation toolkit for sparse-event
+> forecasting, applied to epileptic seizure prediction (v1.0.1).
+> Zenodo. https://doi.org/10.5281/zenodo.23388564
+
+A manuscript describing the methodology in detail is in preparation.
+Once it is available (as an arXiv preprint, and pending JOSS review),
+this section will be updated with that citation.
+
+The same validation methodology has also been applied separately to
+blazar gamma-ray flare forecasting:
 
 > Shah, Z. and Akbar, S. (2026). Advance warning of gamma-ray blazar
 > flares from Fermi-LAT light curves: a strictly causal machine-learning
