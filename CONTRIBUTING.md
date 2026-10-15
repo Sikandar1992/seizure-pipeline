@@ -19,10 +19,10 @@ Open an issue on GitHub. For a bug report, please include:
 2. Make your change. Keep commits focused: one logical change per commit.
 3. Add or update tests in `test_seizure_pipeline.py` for any behavior
    change. Run the test suite locally before opening a pull request:
-   ```bash
+```bash
    pytest test_seizure_pipeline.py -v
    pytest test_seizure_pipeline.py --runslow   # include the larger, slower checks
-   ```
+```
 4. Update `README.md` if your change affects usage.
 5. Open a pull request against `main`, describing what changed and why.
 
