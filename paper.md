@@ -13,10 +13,12 @@ authors:
   - name: Sikandar Akbar
     affiliation: 1
   - name: Zahir Shah
-    affiliation: 1
+    affiliation: 2
 affiliations:
   - name: Department of Physics, University of Kashmir, Srinagar, India
     index: 1
+  - name: Manipal Centre for Natural Sciences, Centre of Excellence, Manipal Academy of Higher Education, Manipal 576104, India
+    index: 2
 date: 25 September 2026
 bibliography: paper.bib
 ---
