@@ -8,13 +8,15 @@ authors:
   - family-names: Shah
     given-names: Zahir
     affiliation: "Department of Physics, University of Kashmir, Srinagar, India"
-version: 1.0.0
-date-released: "2026-09-25"
+version: 1.0.1
+date-released: "2026-10-15"
 repository-code: "https://github.com/Sikandar1992/seizure-pipeline"
+doi: "10.5281/zenodo.23388564"
 license: MIT
-# NOTE: doi field intentionally left blank -- add the Zenodo archive DOI
-# once the repo is archived, and the JOSS paper DOI once the JOSS
-# review completes. Do not fabricate a placeholder DOI here.
+# NOTE: this is the Zenodo archive DOI (for the software itself). Once
+# the JOSS review completes, JOSS will mint a separate DOI for the
+# paper -- add that as a second reference when it exists, do not
+# overwrite this one.
 preferred-citation:
   type: article
   title: "Advance warning of gamma-ray blazar flares from Fermi-LAT light curves: a strictly causal machine-learning backtest"
